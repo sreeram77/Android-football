@@ -6,5 +6,5 @@ package com.batman.football;
 
 public interface TeamCallback {
 
-  public String getNames();
+  public String getName();
 }

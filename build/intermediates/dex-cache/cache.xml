@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/home/batman/Work/clorik/Football/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/home/batman/Android-football/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="5084c797e0f176ea626c0c1b86ec0c7e6640e5b0">
-        <dex dex="/home/batman/Work/clorik/Football/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4c9621fac9d663c7f697e1dcdecd3afe05c2ab70/classes.dex" />
+        sha1="0b98fdb108ff565f46c6217fd9ccd5fe33258527">
+        <dex dex="/home/batman/Android-football/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9133b562c670e4300a2e351c3a66f3ff5395ce83/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/batman/Work/clorik/Football/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/home/batman/Android-football/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/home/batman/Work/clorik/Football/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6cce8f3f9349c8b8b06d6e23b63a94c743765ccd/classes.dex" />
+        <dex dex="/home/batman/Android-football/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_39bc0b83bc4b0beb89713557b8cd40dc790d26c8/classes.dex" />
     </item>
 
 </items>

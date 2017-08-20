@@ -7,6 +7,7 @@ import android.view.LayoutInflater;
 import android.view.ViewGroup;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -15,6 +16,7 @@ import java.util.List;
 
 public class MyAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
   private final Activity activity;
+  private TeamCallback teamCallback;
   private List<Team> teams;
 
   public MyAdapter(Activity activity, List<Team> teams) {
@@ -31,7 +33,12 @@ public class MyAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
 
   @Override
   public void onBindViewHolder(RecyclerView.ViewHolder holder, int position) {
+    ((TeamView) holder).setNumber(position + 1);
+  }
 
+  public List<String> getNames() {
+    List<String> names = new ArrayList<>();
+    return names;
   }
 
   @Override

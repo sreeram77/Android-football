@@ -3,6 +3,7 @@
     <string name="ok">OK</string>
     <string name="plus">+</string>
     <string name="minus">-</string>
+    <string name="dot">.</string>
     <string name="team_name">Enter the name of team</string>
     <string name="no_of_team">No. of Teams</string>
     <string name="no_of_group">No. of Groups</string>
